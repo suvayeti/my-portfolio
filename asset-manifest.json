@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.cb021ed9.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.cb021ed9.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.8a661969.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.8a661969.js.map",
+    "static/js/2.50812f6b.chunk.js": "/my-portfolio/static/js/2.50812f6b.chunk.js",
+    "static/js/2.50812f6b.chunk.js.map": "/my-portfolio/static/js/2.50812f6b.chunk.js.map",
+    "static/js/3.a91329d1.chunk.js": "/my-portfolio/static/js/3.a91329d1.chunk.js",
+    "static/js/3.a91329d1.chunk.js.map": "/my-portfolio/static/js/3.a91329d1.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/my-portfolio/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.50812f6b.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.50812f6b.chunk.js.LICENSE.txt",
+    "static/media/Bach.fb79f65b.jpg": "/my-portfolio/static/media/Bach.fb79f65b.jpg",
+    "static/media/GameShop.cd3e6279.PNG": "/my-portfolio/static/media/GameShop.cd3e6279.PNG",
+    "static/media/GymApp.d5532ba8.jpg": "/my-portfolio/static/media/GymApp.d5532ba8.jpg",
+    "static/media/Isc.d198cdc5.jpg": "/my-portfolio/static/media/Isc.d198cdc5.jpg",
+    "static/media/Resume_1.f45ca0b7.jpg": "/my-portfolio/static/media/Resume_1.f45ca0b7.jpg",
+    "static/media/Resume_2.8d6f9339.jpg": "/my-portfolio/static/media/Resume_2.8d6f9339.jpg",
+    "static/media/UserMgmt.7e93618a.PNG": "/my-portfolio/static/media/UserMgmt.7e93618a.PNG",
+    "static/media/chatapp.f4d72987.PNG": "/my-portfolio/static/media/chatapp.f4d72987.PNG",
+    "static/media/cover.448ad30d.jpg": "/my-portfolio/static/media/cover.448ad30d.jpg",
+    "static/media/masters.6a7ec7f5.PNG": "/my-portfolio/static/media/masters.6a7ec7f5.PNG",
+    "static/media/masters.8c8133fb.jpg": "/my-portfolio/static/media/masters.8c8133fb.jpg",
+    "static/media/mypic.e6649984.jpg": "/my-portfolio/static/media/mypic.e6649984.jpg",
+    "static/media/swift.62cd42bf.jpg": "/my-portfolio/static/media/swift.62cd42bf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a661969.js",
+    "static/js/2.50812f6b.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.cb021ed9.chunk.js"
+  ]
+}
