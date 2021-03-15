@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.5133b15a.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.5133b15a.chunk.js.map",
-    "runtime-main.js": "/my-portfolio/static/js/runtime-main.8a661969.js",
-    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.8a661969.js.map",
-    "static/js/2.6d7e6316.chunk.js": "/my-portfolio/static/js/2.6d7e6316.chunk.js",
-    "static/js/2.6d7e6316.chunk.js.map": "/my-portfolio/static/js/2.6d7e6316.chunk.js.map",
-    "static/js/3.a91329d1.chunk.js": "/my-portfolio/static/js/3.a91329d1.chunk.js",
-    "static/js/3.a91329d1.chunk.js.map": "/my-portfolio/static/js/3.a91329d1.chunk.js.map",
+    "main.js": "/my-portfolio/static/js/main.22334ffd.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.22334ffd.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.18e2117b.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.18e2117b.js.map",
+    "static/js/2.fe6fb9c8.chunk.js": "/my-portfolio/static/js/2.fe6fb9c8.chunk.js",
+    "static/js/2.fe6fb9c8.chunk.js.map": "/my-portfolio/static/js/2.fe6fb9c8.chunk.js.map",
+    "static/js/3.0e131cbe.chunk.js": "/my-portfolio/static/js/3.0e131cbe.chunk.js",
+    "static/js/3.0e131cbe.chunk.js.map": "/my-portfolio/static/js/3.0e131cbe.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/my-portfolio/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.6d7e6316.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.6d7e6316.chunk.js.LICENSE.txt",
+    "static/js/2.fe6fb9c8.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.fe6fb9c8.chunk.js.LICENSE.txt",
     "static/media/Bach.fb79f65b.jpg": "/my-portfolio/static/media/Bach.fb79f65b.jpg",
     "static/media/GameShop.cd3e6279.PNG": "/my-portfolio/static/media/GameShop.cd3e6279.PNG",
     "static/media/GymApp.d5532ba8.jpg": "/my-portfolio/static/media/GymApp.d5532ba8.jpg",
@@ -33,9 +33,9 @@
     "static/media/swift.62cd42bf.jpg": "/my-portfolio/static/media/swift.62cd42bf.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a661969.js",
-    "static/js/2.6d7e6316.chunk.js",
+    "static/js/runtime-main.18e2117b.js",
+    "static/js/2.fe6fb9c8.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.5133b15a.chunk.js"
+    "static/js/main.22334ffd.chunk.js"
   ]
 }
